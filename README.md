@@ -1,4 +1,4 @@
 # venta-videojuegos
 repositorio power bi
-[ventas de videojuegos.pdf](https://github.com/perd2020/venta-videojuegos/files/8317963/ventas.de.videojuegos.pdf)
-[ventas.de.videojuegos.pdf](https://github.com/perd2020/venta-videojuegos/files/10789913/ventas.de.videojuegos.pdf)
+
+![ventas de videojuegos1024_1](https://user-images.githubusercontent.com/91780371/220256365-7352c195-c789-46dd-a527-71793f0d3087.jpg)
